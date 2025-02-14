@@ -18,4 +18,6 @@ void main(){
     print("nombre: ${amigos[i]} estatura: ${estaturas[i]}");
   }
 
+  
+
 }
